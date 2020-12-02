@@ -1,0 +1,59 @@
+body {
+    background: url('../img/sky.jpg') center no-repeat;
+    object-fit: cover;
+}
+
+    
+h1{
+    font-family: 'Crete Round', serif;
+    color: rgb(203, 172, 218);
+    text-align: center;
+    font-size: 50px;
+    margin-bottom: 0;
+    margin-top: 0;
+    
+}
+
+
+.pic {
+    height:330px;
+    width: 230px;
+    margin: 0 auto;
+    position: relative;
+    text-align: center;
+    margin-bottom: 13px;
+}
+
+.buttons {
+    border-radius: 8px;
+    height: 40px;
+    width: 350px;
+    font-weight: bold;
+    font-size: 20px;
+    font-family: 'Crete Round', serif;
+    margin: 0 auto;
+    position: relative;
+    text-align: center;
+    margin-top: 8px;
+
+}
+
+
+.buttons button:hover {
+    background: rgba(255, 255, 255, 0.623);
+}
+
+.restart {
+        border-radius: 8px;
+        margin-top: 10px;
+        height: 30px;
+        width: 100px;
+        font-weight: bold;
+        font-size: 15px;
+        font-family: 'Crete Round', serif;
+        margin: 0 auto;
+        position: relative;
+        text-align: center;
+        margin-bottom: 10px;
+}
+
